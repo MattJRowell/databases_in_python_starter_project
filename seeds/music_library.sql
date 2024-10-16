@@ -30,6 +30,7 @@ INSERT INTO artists (name, genre) VALUES ('Pixies', 'Rock');
 INSERT INTO artists (name, genre) VALUES ('ABBA', 'Pop');
 INSERT INTO artists (name, genre) VALUES ('Taylor Swift', 'Pop');
 INSERT INTO artists (name, genre) VALUES ('Nina Simone', 'Jazz');
+-- INSERT INTO artists (name, genre) VALUES ('Linkin Park', 'Alternative');
 
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Doolittle', 1989, 1);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Surfer Rosa', 1988, 1);
@@ -43,5 +44,6 @@ INSERT INTO albums (title, release_year, artist_id) VALUES ('Baltimore', 1978, 4
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Here Comes the Sun', 1971, 4);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Fodder on My Wings', 1982, 4);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Ring Ring', 1973, 2);
+INSERT INTO albums (title, release_year, artist_id) VALUES ('Minutes To Midnight', 2007, 5);
 
 
